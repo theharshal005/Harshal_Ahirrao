@@ -1,5 +1,4 @@
 
-
 # 👋Hi,i'M Harshal
 🔭 I’m currently Studying BCA <br> 
 🌱 I’m currently learning JavaScript and ReactJS<br>
